@@ -1,2 +1,1 @@
-# E-school-resources
-# E-school-resources
+# E-school-resource
